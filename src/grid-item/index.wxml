@@ -1,1 +1,1 @@
-<view class="i-class i-grid-item" style="width: {{ width }}"><slot></slot></view>
+<view class="i-class i-grid-item" hover-class="i-grid-item-hover" style="width: {{ width }}"><slot></slot></view>
